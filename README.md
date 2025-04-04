@@ -1,6 +1,6 @@
 <h1>Balmcity Course Application Portal</h1>
 
- ### [View Portal](https://balmcitypush.vercel.app/)
+ ### [View Balmcity Portal](https://balmcitypush.vercel.app/)
 
 <h2>Description</h2>
 The portal enables an applicant to register for new course and make payment to automate registration process, driving efficiency and successful applications by over 15%.
