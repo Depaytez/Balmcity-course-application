@@ -21,15 +21,15 @@ The portal enables an applicant to register for new course and make payment to a
 
 <h2>Program walk-through:</h2>
 <p align="left">
-Launch the website: <br/>
+- Launch the website: <br/>
 <!-- <img src="https://balmcitypush.vercel.app/" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
 <br />
 <br />
-Click Apply:  <br/>
+- Click Apply:  <br/>
 <!--<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
 <br />
 <br />
-Fill Form and Submit Application: <br/>
+- Fill Form and Submit Application: <br/>
 <!-- <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
 <br />
 <br />
@@ -37,11 +37,11 @@ Fill Form and Submit Application: <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> -->
-Wait for process to complete (may take some time):  <br/>
+- Wait for process to complete (may take some time):  <br/>
 <!-- <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
 <br />
 <br />
-Application complete:  <br/>
+- Application complete:  <br/>
 <!-- <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
 
 
