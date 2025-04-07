@@ -22,26 +22,23 @@ The portal enables an applicant to register for new course and make payment to a
 <h2>Program walk-through:</h2>
 <p align="left">
 - Launch the website: <br/>
-<!-- <img src="https://balmcitypush.vercel.app/" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
+<img src="https://imgur.com/EuOdMvv.png" height="80%" width="80%" alt="Intro page Steps"/>
 <br />
 <br />
-- Click Apply:  <br/>
-<!--<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
+- Click Apply and Fill Form:  <br/>
+ <img src="https://imgur.com/SffkIux.png" height="80%" width="80%" alt="Intro page Steps"/>
 <br />
 <br />
-- Fill Form and Submit Application: <br/>
-<!-- <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
+- Confirm and Submit Application: <br/>
+<img src="https://imgur.com/xIEnIZG.png" height="80%" width="80%" alt="Intro page Steps"/>
 <br />
 <br />
-<!-- Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br /> -->
 - Wait for process to complete (may take some time):  <br/>
-<!-- <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
+<img src="https://imgur.com/BDG2K7T.png" height="80%" width="80%" alt="Intro page Steps"/>
 <br />
 <br />
 - Application complete:  <br/>
+<!--<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Intro page Steps"/>-->
 <!-- <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
 
 
